@@ -1,8 +1,11 @@
 Hey! My name's Jurek.
 
 🔰 > Random dude
+
 🚩 > From Poland
+
 🌐 > Discord.py bot coding
+
 💗 > Learning HTML, Python
 
 
