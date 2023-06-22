@@ -1,4 +1,4 @@
-Hey! My name's Jurek.
+✨ Hey! My name's Jurek.
 
 > Random dude
 
